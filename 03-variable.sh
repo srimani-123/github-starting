@@ -10,6 +10,7 @@ person2=$2
 
 
  #Note:- Here u are just giving values, Not even you are giving any names
+         # And u r giving the names outside
 
 
 
