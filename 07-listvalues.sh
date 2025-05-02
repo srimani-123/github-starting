@@ -10,4 +10,7 @@ echo "fourth movie: ${movies[3]}"
 
 echo "U can see all the movies list: ${movies[@]}"
 
+echo "The current script name is : $0"
+echo "The present working directory: $pwd
 
+echo "Home directory of current user: $HOME"
