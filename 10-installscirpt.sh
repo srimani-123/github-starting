@@ -1,6 +1,8 @@
 #!/bin/bash
 
 
+R="\e32m"
+
 USERID=$(id -u)
 
 if [ $USERID -eq 0 ]
